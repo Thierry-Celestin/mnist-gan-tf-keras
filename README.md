@@ -6,7 +6,7 @@ This repository contains a complete implementation and analysis of a Generative 
 
 The project is divided into two main notebooks:
 
-- `Assignment_3_solution.ipynb`:  Contains the full GAN implementation including the Generator, Discriminator, and training loop for image generation. The model learns to generate MNIST-style digits from random noise.
+- `Image_Generation_with_GAN.ipynb`:  Contains the full GAN implementation including the Generator, Discriminator, and training loop for image generation. The model learns to generate MNIST-style digits from random noise.
 - `Report.ipynb`: A structured analysis explaining architectural decisions (e.g. use of `tanh`, `LeakyReLU`) and training behavior.
 
 ## 📊 Features
